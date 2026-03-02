@@ -19,6 +19,7 @@ tar xzf Vortex-linux-x64.tar.gz
 cd vortex_package
 # 3. Run the installer with administrator privileges
 sudo ./install.sh
+
 Vortex will now be installed and accessible from your application menu!
 
 📱 Android
